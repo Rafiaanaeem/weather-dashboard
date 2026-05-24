@@ -36,15 +36,11 @@ If this was not handled, the application would either break or show undefined va
 ---
 
 ## 4. AI usage
+Most of the project was designed and implemented by me, including the UI structure, styling, and JavaScript logic.
 
-I used ChatGPT during the development of this project for:
+I used ChatGPT occasionally as a reference tool to clarify concepts such as Fetch API usage and to help debug a few errors related to API responses and DOM updates.
 
-- Structuring the project workflow
-- Designing the UI layout and styling ideas
-- Understanding API integration using Fetch in JavaScript
-- Debugging errors related to API responses and UI rendering
-
-In some cases, I modified the AI-generated code to improve clarity, remove unnecessary complexity, and adjust the UI behavior according to my design preferences.
+Any suggestions provided by AI were reviewed carefully and adjusted by me to fit the project requirements and my own implementation style. The final code and design decisions are my own work after testing and refinement.
 
 ---
 
