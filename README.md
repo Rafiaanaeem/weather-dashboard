@@ -12,8 +12,7 @@ It uses the OpenWeather API to fetch real-time weather data.
 3. Enter a city name and click Search
 
 ---
-
-##  API Setup
+## API Setup
 
 This project uses OpenWeather API.
 
@@ -23,7 +22,6 @@ Steps:
 3. Paste key inside `script.js`
 
 ---
-
 ##  Features
 
 - Real-time weather data
