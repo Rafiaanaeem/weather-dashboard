@@ -43,7 +43,6 @@ I used ChatGPT occasionally as a reference tool to clarify concepts such as Fetc
 Any suggestions provided by AI were reviewed carefully and adjusted by me to fit the project requirements and my own implementation style. The final code and design decisions are my own work after testing and refinement.
 
 ---
-
 ## 5. Honest gap
 
 One limitation of this project is that it does not store search history or previous results.
