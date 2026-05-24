@@ -2,7 +2,6 @@ const apiKey = "1d5a06f168fc87d0454576c182eb2e39";
 
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
-
 const cityName = document.getElementById("cityName");
 const temperature = document.getElementById("temperature");
 const description = document.getElementById("description");
