@@ -5,7 +5,7 @@ It uses the OpenWeather API to fetch real-time weather data.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone the project
 2. Open `index.html` in any browser
@@ -13,7 +13,7 @@ It uses the OpenWeather API to fetch real-time weather data.
 
 ---
 
-## 🔑 API Setup
+##  API Setup
 
 This project uses OpenWeather API.
 
@@ -24,7 +24,7 @@ Steps:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Real-time weather data
 - Search any city
@@ -34,7 +34,7 @@ Steps:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS (Glassmorphism UI)
